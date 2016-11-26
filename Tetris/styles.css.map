@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,KACE,eAHS,CAIV","file":"styles.css","sourcesContent":["$blue: #55f;\n\nbody{\n  background: $blue;\n}"],"sourceRoot":"/source/"}
